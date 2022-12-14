@@ -275,7 +275,7 @@ class Background {
       x: this.store.get('osdlyrics.x-pos') || 0,
       y: this.store.get('osdlyrics.y-pos') || 0,
       width: this.store.get('osdlyrics.width') || 840,
-      height: this.store.get('osdlyrics.height') || 110,
+      height: this.store.get('osdlyrics.height') || 20,
       title: 'OSD Lyrics',
       transparent: true,
       frame: false,
